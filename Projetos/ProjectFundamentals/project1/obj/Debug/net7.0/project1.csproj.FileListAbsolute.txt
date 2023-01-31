@@ -1,0 +1,33 @@
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\bin\Debug\net7.0\project1.exe
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\bin\Debug\net7.0\project1.deps.json
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\bin\Debug\net7.0\project1.runtimeconfig.json
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\bin\Debug\net7.0\project1.dll
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\bin\Debug\net7.0\project1.pdb
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\obj\Debug\net7.0\project1.csproj.AssemblyReference.cache
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\obj\Debug\net7.0\project1.AssemblyInfo.cs
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\obj\Debug\net7.0\project1.dll
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\obj\Debug\net7.0\refint\project1.dll
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\obj\Debug\net7.0\project1.pdb
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\obj\Debug\net7.0\project1.genruntimeconfig.cache
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\project1\obj\Debug\net7.0\ref\project1.dll
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\bin\Debug\net7.0\project1.exe
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\bin\Debug\net7.0\project1.deps.json
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\bin\Debug\net7.0\project1.runtimeconfig.json
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\bin\Debug\net7.0\project1.dll
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\bin\Debug\net7.0\project1.pdb
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\bin\Debug\net7.0\project_common.dll
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\bin\Debug\net7.0\project_common.pdb
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\obj\Debug\net7.0\project1.csproj.AssemblyReference.cache
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\obj\Debug\net7.0\project1.AssemblyInfo.cs
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\obj\Debug\net7.0\project1.csproj.CopyComplete
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\obj\Debug\net7.0\project1.dll
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\obj\Debug\net7.0\refint\project1.dll
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\obj\Debug\net7.0\project1.pdb
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\obj\Debug\net7.0\project1.genruntimeconfig.cache
+C:\Users\jaque\OneDrive\Documentos\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\project1\obj\Debug\net7.0\ref\project1.dll

@@ -1,0 +1,17 @@
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\bin\Debug\net7.0\explorando.exe
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\bin\Debug\net7.0\explorando.deps.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\bin\Debug\net7.0\explorando.runtimeconfig.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\bin\Debug\net7.0\explorando.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\bin\Debug\net7.0\explorando.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\obj\Debug\net7.0\explorando.csproj.AssemblyReference.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\obj\Debug\net7.0\explorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\obj\Debug\net7.0\explorando.AssemblyInfoInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\obj\Debug\net7.0\explorando.AssemblyInfo.cs
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\obj\Debug\net7.0\explorando.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\obj\Debug\net7.0\explorando.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\obj\Debug\net7.0\refint\explorando.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\obj\Debug\net7.0\explorando.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\obj\Debug\net7.0\explorando.genruntimeconfig.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\obj\Debug\net7.0\ref\explorando.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\ProjectFundamentals\explorando\obj\Debug\net7.0\explorando.csproj.CopyComplete

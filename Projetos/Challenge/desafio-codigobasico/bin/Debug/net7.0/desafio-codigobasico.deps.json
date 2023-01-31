@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "desafio-codigobasico/1.0.0": {
+        "runtime": {
+          "desafio-codigobasico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafio-codigobasico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

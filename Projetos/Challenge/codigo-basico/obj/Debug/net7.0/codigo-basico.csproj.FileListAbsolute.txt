@@ -1,0 +1,15 @@
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\bin\Debug\net7.0\codigo-basico.exe
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\bin\Debug\net7.0\codigo-basico.deps.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\bin\Debug\net7.0\codigo-basico.runtimeconfig.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\bin\Debug\net7.0\codigo-basico.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\bin\Debug\net7.0\codigo-basico.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\obj\Debug\net7.0\codigo-basico.csproj.AssemblyReference.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\obj\Debug\net7.0\codigo-basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\obj\Debug\net7.0\codigo-basico.AssemblyInfoInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\obj\Debug\net7.0\codigo-basico.AssemblyInfo.cs
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\obj\Debug\net7.0\codigo-basico.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\obj\Debug\net7.0\codigo-basico.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\obj\Debug\net7.0\refint\codigo-basico.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\obj\Debug\net7.0\codigo-basico.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\obj\Debug\net7.0\codigo-basico.genruntimeconfig.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\codigo-basico\obj\Debug\net7.0\ref\codigo-basico.dll

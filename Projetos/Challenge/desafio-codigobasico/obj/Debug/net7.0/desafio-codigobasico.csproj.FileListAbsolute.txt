@@ -1,0 +1,15 @@
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\bin\Debug\net7.0\desafio-codigobasico.exe
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\bin\Debug\net7.0\desafio-codigobasico.deps.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\bin\Debug\net7.0\desafio-codigobasico.runtimeconfig.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\bin\Debug\net7.0\desafio-codigobasico.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\bin\Debug\net7.0\desafio-codigobasico.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\obj\Debug\net7.0\desafio-codigobasico.csproj.AssemblyReference.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\obj\Debug\net7.0\desafio-codigobasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\obj\Debug\net7.0\desafio-codigobasico.AssemblyInfoInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\obj\Debug\net7.0\desafio-codigobasico.AssemblyInfo.cs
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\obj\Debug\net7.0\desafio-codigobasico.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\obj\Debug\net7.0\desafio-codigobasico.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\obj\Debug\net7.0\refint\desafio-codigobasico.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\obj\Debug\net7.0\desafio-codigobasico.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\obj\Debug\net7.0\desafio-codigobasico.genruntimeconfig.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-codigobasico\obj\Debug\net7.0\ref\desafio-codigobasico.dll

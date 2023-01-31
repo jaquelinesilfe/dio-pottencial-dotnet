@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMdKVKS3z/2inJYjegP9ORusCDOaknNAYcyY1ik7deROjN57G6m8neEkM0FPAhwVWmuWDOqiqwPLk3AQhM53PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaque\\Documents\\PROJECTS\\Projects .Net Dio\\Curso Pontencial .NET\\Curso Pottencial .NET Developer\\Projetos\\ProjectFundamentals\\explorando\\explorando.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaque\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
